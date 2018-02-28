@@ -1,0 +1,11 @@
+#main{
+    background-color: lime;
+    padding: 75px;
+    margin: 75px;
+}
+
+h1{
+    font-family: 'Monoton', cursive;
+    font-size: 100px;
+    text-align: center;
+}

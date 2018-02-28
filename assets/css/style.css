@@ -1,11 +1,39 @@
+body, html{
+    height: 100%;
+}
+
+.bg{
+    background-image: url("https://github.com/mmansi18/TriviaGame/blob/0f88ca06abd746a4f027c3c3aabfe82aed395617/assets/images/family_guy.jpg?raw=true");
+    height:100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 #main{
-    background-color: lime;
+    position: absolute;
+    background-color: rgba(0,0,0,0.2);
     padding: 75px;
     margin: 75px;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 1;
 }
 
 h1{
-    font-family: 'Monoton', cursive;
+    font-family: 'Luckiest Guy', cursive;
     font-size: 100px;
+    text-align: center;
+    color: white;
+    font-style: unset;
+}
+
+p{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 50px;
+    color: white;
     text-align: center;
 }

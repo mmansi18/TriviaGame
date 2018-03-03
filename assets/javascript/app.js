@@ -22,52 +22,52 @@ $(document).on("click", "#start", function (e) {
         question: "Who lives in Chris' closet?",
         answers: ["Evil Monkey", "Boogey Man", "Drunk Leprechaun", "Kool-aid Man"],
         correctAnswer: "Evil Monkey",
-        image:""
+        image:"assets/images/evil-monkey.jpg"
         },{
         question:"What is the bartenders name at the Drunken Clam?",
         answers:["George", "Vince", "Horace", "James"],
         correctAnswer: "Horace",
-        image:""
+        image:"assets/images/horace.png"
         },{
         question:"Where do the Griffin's live?",
         answers:["New York", "Maine", "Maryland", "Rhode Island"],
         correctAnswer: "Rhode Island",
-        image:""
+        image:"assets/images/rhodeisland.jpg"
         },{
-            question:"Meg is older than Chris?",
-            answers:["True", "False"],
-            correctAnswer: "True",
-            image:""
+        question:"Meg is older than Chris?",
+        answers:["True", "False"],
+        correctAnswer: "True",
+        image:"assets/images/megandchris.jpg"
         },{
         question:"What reason did peter first fight the chicken?",
         answers:["He told Peter to **** off", "He gave Peter an expired coupon", "He took Peter's parking spot", "He stole Peter's Churro"],
         correctAnswer: "He gave Peter an expired coupon",
-        image:""
+        image:"assets/images/peterchicken.jpg"
     },{
         question:"What is the name of Stewie's first teddy bear? ",
         answers:["Jon Jon", "Sheldon", "Rupert", "Oscar"],
         correctAnswer: "Oscar",
-        image:""
+        image:"assets/images/oscar.jpg"
     },{
         question:"Who is Cleveland Brown's wife?",
         answers:["Loretta", "Monica", "Gina", "Marge"],
         correctAnswer: "Loretta",
-        image:""
+        image:"assets/images/Loretta.png"
     },{
         question:"Who is the Mayor of Quahog?",
         answers:["Dave East", "Mike North", "Sean South", "Adam West"],
         correctAnswer: "Adam West",
-        image:""
+        image:"assets/images/Adamwest.jpg"
     },{
         question:"In the Star Wars episodes, who plays C-3PO?",
         answers:["Mort Goldman", "Carter Pewterschmidt", "Glenn Quagmire", "Joe Swanson"],
         correctAnswer: "Glenn Quagmire",
-        image:""
+        image:"assets/images/cp30.jpg"
     },{
         question:"What is 'Meg' short for?",
         answers:["Megan", "Margaret", "Megatron", "It's just 'Meg'"],
         correctAnswer: "Megatron",
-        image:""
+        image:"assets/images/megatron.jpg"
     }];
     
 
